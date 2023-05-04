@@ -10,5 +10,6 @@ The webpage has a navigation bar that is displayed at the top right of the page 
 
 ## URL
 
-## zmcoder2.github.io/code-refractor/
-## https://github.com/ZmCoder2/code-refractor.git
+https://zmcoder2.github.io/code-refractor/
+
+https://github.com/ZmCoder2/code-refractor.git
